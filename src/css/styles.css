@@ -103,10 +103,9 @@
 
 .info {
   display: flex;
-  padding: 15px;
+  padding: 15px 0;
   flex-direction: row;
   justify-content: space-around;
-  /* align-items: center; */
 }
 .info p {
   display: flex;
